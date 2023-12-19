@@ -1,0 +1,45 @@
+*{
+    color: rgba(14, 1, 1, 0.663);
+    
+}
+.cabessalho{
+    width: 155px;
+    height: 174px;
+    margin-left: 43%;
+    background-image: url(./imagem/klipartz.com.png);
+    background-size: cover;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+.container{background-image: url(././imagem/papel-de-parede-adesivo-arabesco-bege-para-sala-e-quarto-3mt-papel-de-parede-estilo-arabesco.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0%;
+}
+
+header{
+    text-align: center;
+}
+section{
+    margin-left: 2rem
+}
+h1{
+    color: rgb(17, 16, 16);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 3em;}
+h2{
+    color: rgb(17, 17, 17);
+    font-style: italic;
+}
+h4{
+    color: black;
+    font-style: italic;
+}
+sub{
+    color:rgba(0, 0, 0, 0.841);
+}
